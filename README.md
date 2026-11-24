@@ -108,3 +108,8 @@ cmake --build build --config Release
 
 ---
 <sub>Indexed tags: temp-mail-plus, temp-mail, disposable, email, api, inbox, unlimited, verification, privacy, cli, developer-tools, open-source, windows, automation, productivity, cpp, portable, prebuilt, tools</sub>
+
+## Keywords
+
+temp-mail disposable email api inbox unlimited verification privacy temp-mail-api disposable-mail-tool temp-mail-plus windows portable prebuilt x64 free download
+related: temp-mail, disposable, email, api, inbox, unlimited, verification, privacy
